@@ -1,0 +1,2 @@
+alert('XSS')
+confiirm(1)
